@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Patryk Szabat
 
-<!--
-**dedku/dedku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+const AboutMe = {
+  experience: '1 year',
+  code: [Javascript, Typescript, HTML, CSS , PHP],
+  tools: [React, Vue, Keystone, Strapi, Tailwind, Bootstrap, SasS],
+  learning: ["Redux", "styled-components", "Next-js"],
+  futureGoals: {
+                goalOne: "learn Node/express",
+                goalTwo: "learn Pythone",
+                goalThree: "contribute to open source"
+                },
+ email: 'szabat.patryk@gmail.com',
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dedku&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
