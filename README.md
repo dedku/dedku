@@ -4,7 +4,7 @@
 const AboutMe = {
   experience: '1 year',
   code: [Javascript, Typescript, HTML, CSS , PHP],
-  tools: [React, Vue, Keystone, Strapi, Tailwind, Bootstrap, SasS],
+  tools: [React, Vue, Keystone, Strapi, Tailwind, Bootstrap, Sass],
   learning: ["Redux-Toolkit", "Styled-components", "Next-js", "Chakra-ui"],
   futureGoals: {
                 goalOne: "learn Node/express",
