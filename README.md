@@ -8,7 +8,7 @@ const AboutMe = {
   learning: ["Redux-Toolkit", "Styled-components", "Next-js", "Chakra-ui"],
   futureGoals: {
                 goalOne: "learn Node/express",
-                goalTwo: "learn Pythone",
+                goalTwo: "learn Python",
                 goalThree: "contribute to open source"
                 },
  email: 'szabat.patryk@gmail.com',
